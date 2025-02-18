@@ -1,5 +1,6 @@
 ﻿namespace test
-{
+{ 
+     ///put some note
     partial class Form1
     {
         /// <summary>
